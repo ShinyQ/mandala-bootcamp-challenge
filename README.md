@@ -27,9 +27,9 @@ git clone https://github.com/openguild-labs/frame-challenges.git
 
 Go to **Participant Registration** section and register to be the workshop participants. Add the below to the list, replace any placeholder with your personal information.
 
-```
-| 🦄 | Kurniadi Ahmad Wijaya | ShinyQ | Software Engineer |
-```
+| Emoji | Name                   | GitHub Username | Current Occupation  |
+|:-----:|------------------------|----------------|----------------------|
+| 🔥    | Kurniadi Ahmad Wijaya  | [ShinyQ](https://github.com/ShinyQ) | Software Engineer |
 
 - Step 5: `Commit` your code and push to the forked Github repository
 
